@@ -11,6 +11,8 @@ Dependencies
 ============
 
 * HTTP module from LuaSocket [#f1]_.
+* Lua JSON library [#f2]_.
+
 
 On Debian systems
 -----------------
@@ -23,3 +25,4 @@ On Debian systems
 .. rubric:: References
 
 .. [#f1] http://w3.impa.br/~diego/software/luasocket/http.html
+.. [#f2] https://github.com/harningt/luajson
