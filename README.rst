@@ -10,7 +10,7 @@ See: http://docs.qmonix.com/latest/.
 Dependencies
 ============
 
-* HTTP module from LuaSocket #f1]_.
+* HTTP module from LuaSocket [#f1]_.
 
 On Debian systems
 -----------------
